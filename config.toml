@@ -49,23 +49,11 @@ pygmentsStyle = "monokai"
     url = "/"
     weight = 1
 
- # [[menu.main]]
- #   name = "Posts"
- #   pre = "<span data-feather='book'></span>"
- #   url = "/posts/"
- #   weight = 2
-
   [[menu.main]]
     name = "Projects"
     pre = "<span data-feather='package'></span>"
     url = "/projects/"
     weight = 2
-
-  #[[menu.main]]
-  #  name = "Tags"
-  #  pre = "<span data-feather='tag'></span>"
-  #  url = "/tags/"
-  #  weight = 3
 
 
 [markup]
