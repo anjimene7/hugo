@@ -26,7 +26,7 @@ My current homelab topology is the following:
 [![Resize](/images/homelab_topology.drawio.png)](/images/homelab_topology.drawio.png)
 
 
-2. [Firefly III cleaner](https://github.com/anjimene7/firefly)
+## 2. [Firefly III cleaner](https://github.com/anjimene7/firefly)
 
 This little tool stems from the self-hosted [firefly iii](https://www.firefly-iii.org/) application, which is a an open source finance manager. It has very nice features of connecting directly to bank APIs to extract all transactions and process them in the application. However in my case I did not have such an option and have to rely on manual extractions of transaction data from my different accounts.
 
